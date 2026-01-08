@@ -361,7 +361,7 @@
 		box-shadow: 44vmin 0 6.409555791820468vmin currentColor;
 	}
 	.dark-mode .background span:nth-child(7) {
-		background-image: url("../../svg/c1.jpg");
+		background-image: url("../../svg/astro.svg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -418,7 +418,7 @@
 		box-shadow: -44vmin 0 5.619794203205103vmin currentColor;
 	}
 	.dark-mode .background span:nth-child(12) {
-		background-image: url("../../svg/c2.jpg");
+		background-image: url("../../svg/wordpress.svg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -442,7 +442,7 @@
 		box-shadow: -44vmin 0 6.044398330258511vmin currentColor;
 	}
 	.dark-mode .background span:nth-child(14) {
-		background-image: url("../../svg/c3.jpg");
+		background-image: url("../../svg/ubuntu.svg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;

@@ -9,6 +9,8 @@ import mdx from '@astrojs/mdx';
 
 import tailwindcss from '@tailwindcss/vite';
 
+import react from '@astrojs/react';
+
 // https://astro.build/config
 export default defineConfig({
   build: {
@@ -31,7 +33,7 @@ export default defineConfig({
   },
 
   site: "https://itssofi.dev/",
-  integrations: [solidJs(), sitemap(), mdx()],
+  integrations: [solidJs(), sitemap(), mdx(), react()],
 
   vite: {
     plugins: [tailwindcss()],
