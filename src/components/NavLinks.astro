@@ -1,12 +1,13 @@
 ---
 import Header from "../layouts/Header.astro";
 
+
 const { origin, target } = Astro.props;
 ---
 
 <Header>
   {
-    origin.map((link) => (
+    origin.map((link:any) => (
       <li class="menu__list">
         {target == "_blank" ? (
           <a
