@@ -11,7 +11,7 @@
 	backdrop-filter: blur(10px);
 	-webkit-backdrop-filter: blur(10px);
 	border-radius: 9px;
-	border: 1.5px solid var(--green-terminal);
+	border: 1.5px solid var(--purple);
 	justify-content: center;
 	font-weight: 700;
 	cursor: pointer;
